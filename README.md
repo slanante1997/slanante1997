@@ -1,4 +1,4 @@
-# 👋 Hey there
+# 👋 Hey there stranger
 
 <div align="justify">
     My name is Seth and I'm an aspiring Full Stack Engineer who loves to work with JavaScript! Right now my mind is focused on learning everything/anything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-world problems.
