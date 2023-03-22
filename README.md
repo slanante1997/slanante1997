@@ -158,3 +158,13 @@
     </td>
   </tr>
 </table>
+
+# 📈 Stats
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=slanante1997&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=slanante1997&&theme=react&&hide_border=true"
+/>
+<br/>
