@@ -105,7 +105,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
         width="48"
         height="48"
         alt="R"
