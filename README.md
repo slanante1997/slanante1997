@@ -49,7 +49,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://icons8.com/icon/mhwmyz1eu7T5/c-sharp-logo"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp.svg"
         width="48"
         height="48"
         alt="C#"
