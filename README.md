@@ -105,15 +105,6 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-        width="48"
-        height="48"
-        alt="AWS"
-      />
-      <br /><strong>AWS</strong>
-    </tr>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg"
         width="48"
         height="48"
@@ -121,6 +112,16 @@
       />
       <br /><strong>R</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        width="48"
+        height="48"
+        alt="AWS"
+      />
+      <br /><strong>AWS</strong>
+    </tr>
+    
 </table>
 
 # 📈 Stats
